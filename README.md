@@ -1,6 +1,6 @@
 # QuizApp
 
-[![Node.js CI](https://github.com/SafdarJamal/quiz-app/workflows/Node.js%20CI/badge.svg)](https://github.com/SafdarJamal/quiz-app/actions?query=workflow%3A%22Node.js+CI%22)
+[![Node.js](https://github.com/SafdarJamal/quiz-app/workflows/Node.js%20CI/badge.svg)](https://github.com/SafdarJamal/quiz-app/actions?query=workflow%3A%22Node.js+CI%22)
 [![GitHub Release](https://img.shields.io/github/v/release/SafdarJamal/quiz-app)](https://github.com/SafdarJamal/quiz-app/releases)
 [![License: MIT](https://img.shields.io/github/license/SafdarJamal/quiz-app)](LICENSE)
 
